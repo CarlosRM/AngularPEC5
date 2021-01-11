@@ -1,14 +1,14 @@
 <div class="container mt-5">
   <div *ngIf="character" class="row animate__animated animate__bounde animate__fadeIn">
     <div class="col-md-9">
-      <p><strong>Name: </strong>{{character.name}}</p>
-      <p><strong>Height: </strong>{{character.height}}</p>
-      <p><strong>Race: </strong>{{character.race}}</p>
-      <p><strong>Birth: </strong>{{character.birth}}</p>
-      <p><strong>Spouse: </strong>{{character.spouse}}</p>
-      <p><strong>Death: </strong>{{character.death}}</p>
-      <p><strong>Realm: </strong>{{character.realm}}</p>
-      <p><strong>Hair: </strong>{{character.hair}}</p>
+      <p><strong>Name: </strong>{{character.name || 'Unknown'}}</p>
+      <p><strong>Height: </strong>{{character.height || 'Unknown'}}</p>
+      <p><strong>Race: </strong>{{character.race || 'Unknown'}}</p>
+      <p><strong>Birth: </strong>{{character.birth || 'Unknown'}}</p>
+      <p><strong>Spouse: </strong>{{character.spouse || 'Unknown'}}</p>
+      <p><strong>Death: </strong>{{character.death || 'Unknown'}}</p>
+      <p><strong>Realm: </strong>{{character.realm || 'Unknown'}}</p>
+      <p><strong>Hair: </strong>{{character.hair || 'Unknown'}}</p>
     </div>
 
     <div class="col-md-3">

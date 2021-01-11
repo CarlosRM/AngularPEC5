@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1610293150422,
+  "timestamp": 1610365089716,
   "index": "https://carlosrm.github.io/AngularPEC5/index.html",
   "assetGroups": [
     {
@@ -10,8 +10,8 @@
       "urls": [
         "https://carlosrm.github.io/AngularPEC5/favicon.ico",
         "https://carlosrm.github.io/AngularPEC5/index.html",
-        "https://carlosrm.github.io/AngularPEC5/main-es2015.0e9fc65088d442e7160c.js",
-        "https://carlosrm.github.io/AngularPEC5/main-es5.0e9fc65088d442e7160c.js",
+        "https://carlosrm.github.io/AngularPEC5/main-es2015.5639aebf1f5c80c4cebd.js",
+        "https://carlosrm.github.io/AngularPEC5/main-es5.5639aebf1f5c80c4cebd.js",
         "https://carlosrm.github.io/AngularPEC5/manifest.webmanifest",
         "https://carlosrm.github.io/AngularPEC5/polyfills-es2015.f332a089ad1600448873.js",
         "https://carlosrm.github.io/AngularPEC5/polyfills-es5.177e85a9724683782539.js",
@@ -65,9 +65,9 @@
     "https://carlosrm.github.io/AngularPEC5/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "https://carlosrm.github.io/AngularPEC5/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://carlosrm.github.io/AngularPEC5/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://carlosrm.github.io/AngularPEC5/index.html": "eecd792acac4f0d64f67ab8f96fa945df3993bb8",
-    "https://carlosrm.github.io/AngularPEC5/main-es2015.0e9fc65088d442e7160c.js": "97b048bec9237eab35f61c67082c6107d0269a5e",
-    "https://carlosrm.github.io/AngularPEC5/main-es5.0e9fc65088d442e7160c.js": "0148be852a499a9281cde0d3fb0ab7a9da6981ee",
+    "https://carlosrm.github.io/AngularPEC5/index.html": "9ac9f2c407ad1d1d6921018035d1c1fe78dac2dd",
+    "https://carlosrm.github.io/AngularPEC5/main-es2015.5639aebf1f5c80c4cebd.js": "327998284539305edf922a298f17c58086ca7873",
+    "https://carlosrm.github.io/AngularPEC5/main-es5.5639aebf1f5c80c4cebd.js": "bf7ab56023ad3ecd8c419c417ab793eb60ad4622",
     "https://carlosrm.github.io/AngularPEC5/manifest.webmanifest": "111acc6cfbf7e51abeceeb73b214a0d691e4471a",
     "https://carlosrm.github.io/AngularPEC5/polyfills-es2015.f332a089ad1600448873.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
     "https://carlosrm.github.io/AngularPEC5/polyfills-es5.177e85a9724683782539.js": "8aa26ea87b9958c6bd13b7c257c0e9940438e684",
